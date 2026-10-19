@@ -2,6 +2,7 @@
 TVerの画面上にニコニコ実況のコメントを流すChrome拡張です。
 
 インストール手順（2026年10月のTVer対応版）は [docs/manual.md](docs/manual.md) を参照してください。
+Windows / Mac 用のインストーラーは [installer/](installer/) にあります（使い方は [docs/manual.md](docs/manual.md#インストーラーで入れるかんたん)）。
 
 ## 感謝
 

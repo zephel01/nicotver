@@ -1,0 +1,5 @@
+# インストーラーは改行コード・BOM をそのまま保持する
+installer/windows/*.ps1 -text
+installer/windows/*.bat -text
+installer/mac/*.sh text eol=lf
+installer/mac/*.command text eol=lf
