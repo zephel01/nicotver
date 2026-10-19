@@ -1,6 +1,8 @@
 # nicotver
 TVerの画面上にニコニコ実況のコメントを流すChrome拡張です。
 
+インストール手順（2026年10月のTVer対応版）は [docs/manual.md](docs/manual.md) を参照してください。
+
 ## 感謝
 
 コメントはこちらから取得します。感謝。  
